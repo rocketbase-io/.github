@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rocketbase-io/.github/README/img/logo-dark.png" width="320" height="80" alt="RocketBase" />
+  <img src="https://github.com/rocketbase-io/.github/raw/main/img/logo-dark.png" width="320" height="80" alt="RocketBase" />
 </p>
 
 RocketBase is a tech agency located in Hamburg. 
